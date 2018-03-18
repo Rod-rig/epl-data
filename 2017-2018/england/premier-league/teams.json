@@ -1,0 +1,102 @@
+[
+  {
+    "teamName": "Arsenal",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t3.svg",
+    "offsite": "www.arsenal.com"
+  },
+  {
+    "teamName": "AFC Bournemouth",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t91.svg",
+    "offsite": "www.afcb.co.uk"
+  },
+  {
+    "teamName": "Brighton and Hove Albion",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t36.svg",
+    "offsite": "www.brightonandhovealbion.com"
+  },
+  {
+    "teamName": "Burnley",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t90.svg",
+    "offsite": "www.burnleyfootballclub.com"
+  },
+  {
+    "teamName": "Chelsea",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t8.svg",
+    "offsite": "www.chelseafc.com"
+  },
+  {
+    "teamName": "Crystal Palace",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t31.svg",
+    "offsite": "www.cpfc.co.uk"
+  },
+  {
+    "teamName": "Everton",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t11.svg",
+    "offsite": "www.evertonfc.com"
+  },
+  {
+    "teamName": "Huddersfield Town",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t38.svg",
+    "offsite": "www.htafc.com"
+  },
+  {
+    "teamName": "Leicester City",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t13.svg",
+    "offsite": "www.lcfc.com"
+  },
+  {
+    "teamName": "Liverpool",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t14.svg",
+    "offsite": "www.liverpoolfc.com"
+  },
+  {
+    "teamName": "Manchester City",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t43.svg",
+    "offsite": "www.mancity.com"
+  },
+  {
+    "teamName": "Manchester United",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t1.svg",
+    "offsite": "www.manutd.com"
+  },
+  {
+    "teamName": "Newcastle United",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t4.svg",
+    "offsite": "www.nufc.co.uk"
+  },
+  {
+    "teamName": "Southampton",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t20.svg",
+    "offsite": "www.southamptonfc.com"
+  },
+  {
+    "teamName": "Stoke City",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t110.svg",
+    "offsite": "www.stokecityfc.com"
+  },
+  {
+    "teamName": "Swansea City",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t80.svg",
+    "offsite": "www.swanseacity.com"
+  },
+  {
+    "teamName": "Tottenham Hotspur",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t6.svg",
+    "offsite": "www.tottenhamhotspur.com"
+  },
+  {
+    "teamName": "Watford",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t57.svg",
+    "offsite": "www.watfordfc.com"
+  },
+  {
+    "teamName": "West Bromwich Albion",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t35.svg",
+    "offsite": "www.wba.co.uk"
+  },
+  {
+    "teamName": "West Ham United",
+    "logo": "//platform-static-files.s3.amazonaws.com/premierleague/badges/t21.svg",
+    "offsite": "www.whufc.com"
+  }
+]
